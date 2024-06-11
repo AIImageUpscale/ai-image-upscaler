@@ -8,6 +8,8 @@
 
 **Adima AI Image Upscaler** is a powerful software tool designed to enhance and upscale images with exceptional quality and clarity. Utilizing advanced artificial intelligence algorithms, Adima AI can upscale images up to 16 times their original size while preserving fine details and sharpness. Whether you're a photographer, graphic designer, content creator, or enterprise user, Adima AI provides a seamless solution for enhancing your visual content with ease.
 
+<video src="https://youtu.be/5ZIQrfbF96k?si=rygdBdM_TEJi0eBG" autoplay muted loop />
+
 ## Features
 
 - **High-Quality Upscaling:** Scale images up to 16x with impeccable detail and clarity.
