@@ -1,6 +1,8 @@
 # Adima AI Image Upscaler
 
-![Adima AI Logo]([https://example.com/adima-ai-logo.png](https://www.aiimageupscale.com/public/Final_Logo.webp))
+<a href="https://www.aiimageupscale.com/ai-image-upscaler-pc">
+   <img src="https://www.aiimageupscale.com/public/Final_Logo.webp">
+</a>
 
 ## Overview
 
