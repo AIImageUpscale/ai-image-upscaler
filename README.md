@@ -4,7 +4,7 @@
    <img src="https://www.aiimageupscale.com/public/Final_Logo.webp" alt="Adima AI Logo">
 </a>
 
-**https://www.aiimageupscale.com**
+**https://www.aiimageupscale.com/ai-image-upscaler-pc**
 
 ## Overview
 
