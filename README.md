@@ -102,8 +102,6 @@ Stay updated with the latest features and news:
 ### 7. **How do I get support?**  
    Documentation, email support, or GitHub issues.  
 
-### 8. **Can I contribute?**  
-   Yes, see [Contributing Guide](CONTRIBUTING.md).  
 
 ### 9. **Is Adima AI available on Mac/Linux?**  
    Currently Windows-only, but future cross-platform support is planned.  
