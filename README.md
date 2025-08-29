@@ -62,14 +62,14 @@ Adima AI offers flexible pricing plans based on the number of upscales you need.
 ---
 
 ## Support
-Need help? Check out our [documentation](docs/README.md) or reach us at [support@aiimageupscale.com](mailto:support@aiimageupscale.com). You can also report issues via our [GitHub Issues](https://github.com/AIImageUpscale/ai-image-upscaler/issues).  
+Need help? Reach us at [support@aiimageupscale.com](mailto:support@aiimageupscale.com). You can also report issues via our [GitHub Issues](https://github.com/AIImageUpscale/ai-image-upscaler/issues).  
 
 ---
 
 ## Connect with Us
 Stay updated with the latest features and news:  
-- [Twitter](https://twitter.com/adima_ai)  
-- [Product Hunt](https://www.producthunt.com/posts/adima-ai-image-upscaler-software)  
+- [Twitter](https://x.com/AIImageUpscale)  
+- [Product Hunt](https://www.producthunt.com/products/ai-image-upscaler-2/launches/adima-ai-image-upscaler-software)  
 - [YouTube](https://www.youtube.com/@AIImageUpscale)  
 
 - **Download Software:** [Adima AI Image Upscaler](https://www.aiimageupscale.com/ai-image-upscaler-pc)  
